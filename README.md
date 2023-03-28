@@ -10,7 +10,7 @@ Platform to help build momentous milestones along with your friends and family! 
 
 
 ## Optimizations
-One of the first thing I would optimize is the UX of how someone schedules a vacation. I would also work on the scalability of the API used. Lastly I would make it so that a person can swipe with friends in real time.
+One of the first thing I would optimize is the UX of how someone schedules a vacation and would love to add chatgpt plugins to be able to populate a price page for hotels and flights. I would also work on the scalability of the API used. Lastly I would make it so that a person can swipe with friends in real time. 
 
 ## Lessons Learned
 
